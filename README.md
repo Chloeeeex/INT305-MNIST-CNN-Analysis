@@ -85,7 +85,16 @@ The **MNIST dataset** consists of **60,000 training images** and **10,000 test i
 - **MobileNet** had the **best efficiency** (fastest with minimal accuracy loss).
 - **ViT required more epochs** to reach comparable accuracy but provides strong feature extraction capabilities.
 - **EfficientFormer achieved a balance** between accuracy and computational efficiency.
+#### CNN
+<img src="https://github.com/user-attachments/assets/ca3041d2-5c33-4707-a3ac-4b97e3c1cb2b" width="400"/>
+<img src="https://github.com/user-attachments/assets/10e79eea-ad52-4c9a-bd19-4bc6b889af03" width="400"/>
 
+#### Mobilenet
+<img src="https://github.com/user-attachments/assets/7b9bb4d3-fadc-448b-a659-0e2230b6e753" width="400"/>
+<img src="https://github.com/user-attachments/assets/fd22e105-6157-4d35-89ae-c176c49a27d0" width="400"/>
+
+#### ViT
+<img src="https://github.com/user-attachments/assets/853d53ab-4f9a-4753-a540-5c8147bc90d9" width="400"/>
 ---
 
 ## Future Improvements
