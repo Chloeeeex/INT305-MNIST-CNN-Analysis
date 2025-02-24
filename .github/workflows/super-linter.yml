@@ -18,8 +18,8 @@ jobs:
 
       # Install all the dependencies
       - name: Install dependencies
-        run: |
-        pip install pandas numpy scikit-learn matplotlib scipy jupyter nbconvert torch torchvision timm tqdm transformers scikit-image
+        run:
+          pip install pandas numpy scikit-learn matplotlib scipy jupyter nbconvert torch torchvision timm tqdm transformers scikit-image
 
       - name: Run Super Linter
         uses: github/super-linter@v5
