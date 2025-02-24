@@ -23,7 +23,7 @@ The goal is to evaluate how these models perform in terms of accuracy, computati
 ## Dataset Description
 The **MNIST dataset** consists of **60,000 training images** and **10,000 test images** of handwritten digits (0-9), with each image being **28x28 grayscale pixels**.
 
-### Data Preprocessing:
+### Data Preprocessing
 - **CNN & MobileNet**:
   - Images are normalized to the range **[-1,1]**.
   - No resizing required (**28x28 input size**).
