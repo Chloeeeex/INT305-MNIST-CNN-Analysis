@@ -104,3 +104,5 @@ The **MNIST dataset** consists of **60,000 training images** and **10,000 test i
   - Learning rate schedules (e.g., ReduceLROnPlateau).
   - Different optimizers (e.g., AdamW, SGD).
 - **Enhance interpretability** using **SHAP** or **Grad-CAM**.
+
+*The overall architecture and core logic of this code were conceived by me, with AI assisting in optimization and partial implementation.*
